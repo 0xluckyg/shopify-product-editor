@@ -1,0 +1,6 @@
+# dependencies
+/original.csv
+/final.csv
+
+# misc
+.DS_Store
